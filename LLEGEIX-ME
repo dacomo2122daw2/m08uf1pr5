@@ -72,7 +72,7 @@
 	7.1 Obre Vagrantfile amb nano, geany, qualsevol IDE o qualsevol editor de texte pla. 
 	
 	7.2 Modifica l'ordre useradd així:
-		useradd  daw2 -u 2001 -g daw2 -d /home/daw2 -m -s /bib/bash -p $(mkpasswd FjeClot22@) 
+		useradd  daw2 -u 2001 -g daw2 -d /home/daw2 -m -s /bin/bash -p $(mkpasswd FjeClot22@) 
 		
 
 
